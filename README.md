@@ -31,12 +31,14 @@ To use the Calculator program, follow these steps:
 
 * Upon running the program, you will see a list of available options:
 
-` Options:
+```
+Options:
 Enter 'add' for addition
 Enter 'subtract' for subtraction
 Enter 'multiply' for multiplication
 Enter 'divide' for division
-Enter 'exit' to end the program`
+Enter 'exit' to end the program
+```
 
 To perform a calculation, follow these steps:
 
